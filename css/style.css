@@ -1,0 +1,11 @@
+.holder-link4 {
+    color: red;
+}
+
+.holder-link5 {
+    color: red;
+}
+
+.holder-list +.holder-text {
+    font-size: 24px;
+}
